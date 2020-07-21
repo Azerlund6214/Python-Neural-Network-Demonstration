@@ -5,7 +5,7 @@
 
  Ссылки на рабочие демки (в браузере):
  
- v1 = https://repl.it/@Egor9731/numbers-s-ekzamiena-sppr-Obriezano-vsie-lishnieie
+ v1 (смотреть эту) = https://repl.it/@Egor9731/numbers-s-ekzamiena-sppr-Obriezano-vsie-lishnieie
  
  v2 = https://repl.it/@Egor9731/Raspozn-Nomerov-Cvetnoy-Calc-10-Weights#main.py
  
